@@ -27,7 +27,7 @@ function Projects() {
               description="Created a mail box application where users can login , send and receive
               messages."
               ghLink="https://github.com/SushmaGowda7/mail-box-client-react-app"
-              demoLink="https://velvety-moonbeam-272e09.netlify.app/"
+              demoLink="https://mail-box-react.netlify.app/"
             />
           </Col>
 
@@ -39,7 +39,7 @@ function Projects() {
               description="Created an expense tracker where a user can sign up and login, add and
               remove expenses and also download the expenses."
               ghLink="https://github.com/SushmaGowda7/Expence-Tracker-react-app"
-              demoLink="https://resonant-piroshki-514285.netlify.app/"
+              demoLink="https://expense-tracker-reacts.netlify.app/"
             />
           </Col>
 
@@ -51,7 +51,7 @@ function Projects() {
               description="Created an ecommerce website where a user can add and remove
               products to the cart ."
               ghLink="https://github.com/SushmaGowda7/e-commerce-website"
-              demoLink="https://iridescent-dusk-7aa0e2.netlify.app/"              
+              demoLink="https://e-commerce-website-react.netlify.app/"              
             />
           </Col>
 
@@ -62,7 +62,7 @@ function Projects() {
               title="Restaurant App"
               description="Online food ordering application"
               ghLink="https://github.com/SushmaGowda7/restruant-app"
-              demoLink="https://boisterous-sorbet-88fdd9.netlify.app/"
+              demoLink="https://restraunt-react.netlify.app//"
             />
           </Col>
         </Row>
