@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Sushma A S </span>
             from <span className="purple"> Kolar, India.</span>
-            <br />I am a graduated engineer in electronics and communication engineering.
+            <br />I am a frontend developer with experience of 1 year in building and manufacturing responsive web applications using HTML, CSS, javascript and React.Js. 
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,6 +24,9 @@ function AboutCard() {
             </li>
             <li className="about-activity">
               <ImPointRight /> Cooking
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Sports
             </li>
           </ul>
 
