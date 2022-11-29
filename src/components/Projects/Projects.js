@@ -27,7 +27,7 @@ function Projects() {
               description="Created a mail box application where users can login , send and receive
               messages."
               ghLink="https://github.com/SushmaGowda7/mail-box-client-react-app"
-              demoLink="https://mail-box-react.netlify.app/"
+              demoLink="https://mail-box-client-d6ce4.firebaseapp.com/"
             />
           </Col>
 
