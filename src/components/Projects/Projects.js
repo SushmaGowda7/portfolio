@@ -39,7 +39,7 @@ function Projects() {
               description="Created an expense tracker where a user can sign up and login, add and
               remove expenses and also download the expenses."
               ghLink="https://github.com/SushmaGowda7/Expence-Tracker-react-app"
-              demoLink="https://expense-tracker-reacts.netlify.app/"
+              demoLink="https://expense-tracker-authentication.web.app/"
             />
           </Col>
 
