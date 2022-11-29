@@ -62,3 +62,5 @@ function Footer() {
     </Container>
   );
 }
+
+export default Footer;
