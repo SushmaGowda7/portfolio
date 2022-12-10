@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import mailbox from "../../Assets/Projects/mailbox.jpg";
 import expense from "../../Assets/Projects/expense.jpg";
 import ecommerce from "../../Assets/Projects/ecommerce.jpg";
-import images from "../../Assets/Projects/images.jpg";
+import images from "../../Assets/Projects/images.JPG";
 import food from "../../Assets/Projects/food.jpg";
 
 function Projects() {
