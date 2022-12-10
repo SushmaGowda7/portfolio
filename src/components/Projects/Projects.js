@@ -2,10 +2,11 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import ecommerce from "../../Assets/Projects/ecommerce.jpg";
-import expense from "../../Assets/Projects/expense.jpg";
-import food from "../../Assets/Projects/food.jpg";
 import mailbox from "../../Assets/Projects/mailbox.jpg";
+import expense from "../../Assets/Projects/expense.jpg";
+import ecommerce from "../../Assets/Projects/ecommerce.jpg";
+import images from "../../Assets/Projects/images.jpg";
+import food from "../../Assets/Projects/food.jpg";
 
 function Projects() {
   return (
@@ -57,12 +58,23 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={images}
+              isBlog={false}
+              title="Infinite Image Gallery"
+              description="Displays infinite images from the Unsplash API"
+              ghLink="https://github.com/SushmaGowda7/Infinite-image-gallery-react"
+              demoLink="https://infinite-scroll-img-gallery-unsplash.netlify.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={food}
               isBlog={false}
               title="Restaurant App"
               description="Online food ordering application"
               ghLink="https://github.com/SushmaGowda7/restruant-app"
-              demoLink="https://restraunt-react.netlify.app//"
+              demoLink="https://restraunt-react.netlify.app/"
             />
           </Col>
         </Row>
