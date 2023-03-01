@@ -13,6 +13,7 @@ import {
   SiFirebase,
   SiPostman
 } from "react-icons/si";
+import { FaNodeJs} from 'react-icons/fa';
 
 function Techstack() {
   return (
@@ -29,6 +30,9 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <FaNodeJs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiGit />

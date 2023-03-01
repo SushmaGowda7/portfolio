@@ -36,7 +36,7 @@ function Home2() {
               <br />
               Whenever possible, I apply my passion for developing products
               with Modern Javascript Library and Frameworks 
-              <b className="purple"> React.js</b>
+              <b className="purple"> React.js, Node.js </b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
